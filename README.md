@@ -1,6 +1,6 @@
 # artyvis_task
 
-Since https://in.seamsfriendly.com/ was a dynamic site heavy on javascript, scrapy with splash was used to scrape it.
+Since https://in.seamsfriendly.com/ was a dynamic site heavy on javascript, scrapy with splash was used to scrape image urls and other details.
 
 Tech stack used:
 1. Scrapy
